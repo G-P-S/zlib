@@ -13,6 +13,9 @@
 *.gcno
 *.gcov
 
+*.sdf
+*.opensdf
+
 /example
 /example64
 /examplesh
