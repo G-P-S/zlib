@@ -1,0 +1,3 @@
+﻿inffas32.obj : warning LNK4006: _inflate_fast already defined in inffast.obj; second definition ignored
+inffas32.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+  zlibstat.vcxproj -> C:\git-repos\importer_2.5\3rdparty\zlib\contrib\vstudio\vc13\x86\ZlibStatDebug\zlibstat.lib

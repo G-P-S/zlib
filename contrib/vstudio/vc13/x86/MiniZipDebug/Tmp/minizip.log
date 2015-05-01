@@ -1,0 +1,7 @@
+﻿minizip.obj : error LNK2019: unresolved external symbol _crc32@12 referenced in function _getFileCrc
+minizip.obj : error LNK2019: unresolved external symbol _zipOpen2_64@16 referenced in function _main
+minizip.obj : error LNK2019: unresolved external symbol _zipOpenNewFileInZip3_64@68 referenced in function _main
+minizip.obj : error LNK2019: unresolved external symbol _zipWriteInFileInZip@12 referenced in function _main
+minizip.obj : error LNK2019: unresolved external symbol _zipCloseFileInZip@4 referenced in function _main
+minizip.obj : error LNK2019: unresolved external symbol _zipClose@8 referenced in function _main
+x86\MiniZipDebug\minizip.exe : fatal error LNK1120: 6 unresolved externals

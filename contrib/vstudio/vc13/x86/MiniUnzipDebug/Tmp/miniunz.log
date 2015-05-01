@@ -1,0 +1,10 @@
+﻿miniunz.obj : error LNK2019: unresolved external symbol _unzOpen2_64@8 referenced in function _main
+miniunz.obj : error LNK2019: unresolved external symbol _unzClose@4 referenced in function _main
+miniunz.obj : error LNK2019: unresolved external symbol _unzGetGlobalInfo64@8 referenced in function _do_list
+miniunz.obj : error LNK2019: unresolved external symbol _unzGoToNextFile@4 referenced in function _do_list
+miniunz.obj : error LNK2019: unresolved external symbol _unzLocateFile@12 referenced in function _do_extract_onefile
+miniunz.obj : error LNK2019: unresolved external symbol _unzGetCurrentFileInfo64@32 referenced in function _do_list
+miniunz.obj : error LNK2019: unresolved external symbol _unzOpenCurrentFilePassword@8 referenced in function _do_extract_currentfile
+miniunz.obj : error LNK2019: unresolved external symbol _unzCloseCurrentFile@4 referenced in function _do_extract_currentfile
+miniunz.obj : error LNK2019: unresolved external symbol _unzReadCurrentFile@12 referenced in function _do_extract_currentfile
+x86\MiniUnzipDebug\miniunz.exe : fatal error LNK1120: 9 unresolved externals
