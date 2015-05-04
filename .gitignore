@@ -24,5 +24,11 @@
 /minigzip64
 /minigzipsh
 /zlib.pc
+contrib/vstudio/vc13/x86/ZlibStatDebug/Tmp/
+contrib/vstudio/vc13/x86/ZlibStatRelease/Tmp/
+contrib/vstudio/vc13/x86/ZlibDllDebug/Tmp/
+contrib/vstudio/vc13/x86/ZlibDllRelease/Tmp/
+contrib/vstudio/vc13/x86/ZlibDllDebug/
+contrib/vstudio/vc13/x86/ZlibDllRelease/
 
 .DS_Store
